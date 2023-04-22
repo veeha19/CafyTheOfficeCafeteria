@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067907364703",
+    "project_id": "cafetria-6c25d",
+    "storage_bucket": "cafetria-6c25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067907364703:android:aed5c0396a137b7e5b28ea",
+        "android_client_info": {
+          "package_name": "com.programmingtech.cafy_theofficecafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067907364703-1hf7d4lkioo5r35g9f9clro0p0lu73r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFksX4y7Mt3Mo5xUNxuCC1B8uLQUaJXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067907364703-1hf7d4lkioo5r35g9f9clro0p0lu73r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
